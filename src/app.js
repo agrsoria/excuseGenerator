@@ -40,3 +40,5 @@ window.onload = function() {
     when
   );
 };
+
+document.querySelector("button").addEventListener("click", excusa);
